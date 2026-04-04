@@ -1,16 +1,138 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ashreo/ashreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=AshReo&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=I%27m%20a%20helicopter%20%F0%9F%9A%81&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<!-- Typing SVG -->
+<a href="https://github.com/ashreo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%94%A5+Hard+Working+%7C+Always+Building;%F0%9F%90%8D+Python+%7C+%F0%9F%94%B7+TypeScript+%7C+%F0%9F%A6%80+Rust;%F0%9F%8C%8F+Asia+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile Views & Social Badges -->
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/ashreo?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/ashreo?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ashreo?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff&affiliations=OWNER)](https://github.com/ashreo)
+![Profile Views](https://komarev.com/ghpvc/?username=ashreo&style=for-the-badge&color=58a6ff&labelColor=0d1117)
+
+</div>
+
+---
+
+<!-- About Me -->
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me</h2>
+
+```yaml
+name: AshReo
+location: Asia (UTC+08:00)
+roles:
+  - Full Stack Developer
+  - Open Source Contributor
+  - GitHub Developer Program Member
+
+organizations:
+  - Bytech-Lab
+  - EmergeShift
+
+currently:
+  building: "Cool stuff with Python & TypeScript"
+  exploring: "Rust, Tauri, MCP"
+  
+fun_fact: "I'm a helicopter 🚁"
+```
+
+---
+
+<!-- Tech Stack -->
+<h2>🛠️ Tech Stack</h2>
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Element UI](https://img.shields.io/badge/Element_UI-409EFF?style=for-the-badge&logo=element&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashreo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ashreo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashreo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashreo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+</div>
+
+---
+
+<!-- Featured Projects -->
+<h2>🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/ashreo/CapCutAPI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashreo&repo=CapCutAPI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/ashreo/Uno-Gesture">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashreo&repo=Uno-Gesture&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashreo/ashreo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashreo/ashreo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ashreo/ashreo/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashreo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  
+  <br/><br/>
+  
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+  
+</div>
