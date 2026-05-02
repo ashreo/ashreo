@@ -78,18 +78,7 @@ fun_fact: "I'm a helicopter 🚁"
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ashreo/ashreo/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
   <img width="49%" src="https://streak-stats.demolab.com?user=ashreo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ashreo/ashreo/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/ashreo/ashreo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ashreo/ashreo/main/profile-summary-card-output/github_dark/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/ashreo/ashreo/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 <!-- Activity Graph -->
